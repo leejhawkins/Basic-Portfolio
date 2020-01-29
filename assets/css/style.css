@@ -1,0 +1,68 @@
+body {
+    line-height: 28px;
+    font-size:16px;
+}
+header{
+    width: 960px;
+    padding-top: 40px;
+    padding-bottom: 10px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 40px;
+}
+#name{
+    float: left;
+    font-size: 24px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    height: 200 px;
+    background: #4aaaa5;
+    color: #eee;
+    width: 20%;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+#about {
+    float: right;
+    font-size: 16px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    width: 10%;
+    color: #777777;
+
+}
+#portfolio {
+    float: right;
+    font-size: 16px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    width: 10%;
+    color: #777777;
+
+}
+#contact {
+    float: right;
+    font-size: 16px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    width: 10%;
+    color: #777777;
+}
+
+#main{
+    height: 500px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 50px;
+    clear: both;
+    width: 960px;
+}
+h1 {
+    font-size: 24px;
+    color: #4aaaa5;
+}
+h2 {
+    font-size: 16px;
+    color: #777777;
+}
