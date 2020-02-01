@@ -66,7 +66,6 @@ a {
     height: 400px;
     margin-left: 200px;
     margin-top: 50px;
-    clear: left;
     padding-top:20px;
     padding-left: 30px;
     background-color: white;
@@ -80,6 +79,14 @@ h1 {
 hr{
     margin-right: 30px;
 }
+
+#my_image {
+    float: left;
+    height: 150px;
+    width: 150px;
+    margin-right: 20px;
+}
+
 h2 {
     font-size: 16px;
     color: #777777;
@@ -95,6 +102,7 @@ h2 {
     width: 900px;
 }
 #message {
+    text-align: left;
     font-size: 14px;
     height: 102px;
     width: 900px;
